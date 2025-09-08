@@ -4,7 +4,7 @@ WEEK 01 :  Embedded C Programming – Revision Notes
 
 An embedded system is a computer system designed for a specific task inside a larger machine or electrical system. Unlike general-purpose computers, it is optimized to perform one dedicated function repeatedly and reliably
 
-trans ec w1_l1 (1)
+
 
 .
 
